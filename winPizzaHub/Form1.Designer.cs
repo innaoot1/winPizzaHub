@@ -132,7 +132,7 @@ namespace winPizzaHub
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(474, 117);
             this.label5.TabIndex = 2;
-            this.label5.Text = "Текст. Описание пиццы соглано Вашему Варианту. Два, три предложения";
+            this.label5.Text = resources.GetString("label5.Text");
             // 
             // label6
             // 
